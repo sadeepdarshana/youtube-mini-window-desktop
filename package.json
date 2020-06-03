@@ -1,0 +1,25 @@
+{
+  "name": "youtube-mini-window-desktop",
+  "version": "1.0.0",
+  "description": "View YouTube as a Frame-less Mini Window at Right Bottom Corner on Top of Other Applications",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "YouTube",
+    "Window",
+    "Mini",
+    "Mini Window",
+    "Mini Player"
+  ],
+  "author": "Sadeep",
+  "devDependencies": {
+    "electron": "^9.0.1",
+    "electron-packager": "^14.2.1"
+  },
+  "dependencies": {
+    "electron-localshortcut": "^3.2.1"
+  }
+}
