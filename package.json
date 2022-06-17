@@ -16,7 +16,7 @@
   ],
   "author": "Sadeep",
   "devDependencies": {
-    "electron": "^9.0.1",
+    "electron": "^15.5.5",
     "electron-packager": "^14.2.1"
   },
   "dependencies": {
